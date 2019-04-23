@@ -1,0 +1,42 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author Ho Ngoc Trien (hongoctrien@2mit.org)
+ * @Copyright (C) 2015 Ho Ngoc Trien. All rights reserved
+ * @License GNU/GPL version 2 or any later version
+ * @Createdate Sun, 16 Aug 2015 01:05:44 GMT
+ */
+dl.dl-horizontal dt, dl.dl-horizontal dd {
+    line-height: 32px
+}
+
+#viewdetail .dl-horizontal dt {
+    width: 100px
+}
+
+.dl-horizontal dd {
+    margin-left: 120px;
+}
+
+.isprint {
+    padding: 10px
+}
+
+.marquee {
+    overflow: hidden;
+}
+
+ul.part-list-info {
+    padding: 0
+}
+
+ul.part-list-info li {
+    line-height: 25px
+}
+
+ul.part-list-info li label {
+    width: 100px
+}
+
+.detail-1 th{
+    text-align: right
+}
